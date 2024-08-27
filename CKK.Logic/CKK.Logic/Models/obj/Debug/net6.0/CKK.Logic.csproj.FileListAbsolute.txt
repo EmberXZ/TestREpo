@@ -1,0 +1,5 @@
+C:\Users\4400121522\Documents\StructuredProject1\CKK.Logic\CKK.Logic\Models\obj\Debug\net6.0\CKK.Logic.csproj.AssemblyReference.cache
+C:\Users\4400121522\Documents\StructuredProject1\CKK.Logic\CKK.Logic\Models\obj\Debug\net6.0\CKK.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\4400121522\Documents\StructuredProject1\CKK.Logic\CKK.Logic\Models\obj\Debug\net6.0\CKK.Logic.AssemblyInfoInputs.cache
+C:\Users\4400121522\Documents\StructuredProject1\CKK.Logic\CKK.Logic\Models\obj\Debug\net6.0\CKK.Logic.AssemblyInfo.cs
+C:\Users\4400121522\Documents\StructuredProject1\CKK.Logic\CKK.Logic\Models\obj\Debug\net6.0\CKK.Logic.csproj.CoreCompileInputs.cache
